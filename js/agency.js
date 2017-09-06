@@ -35,4 +35,11 @@
     }
   });
 
+
+
+  $(document).ready(function() {
+    $('#preloader').fadeOut('slow');
+
+  });
+
 })(jQuery); // End of use strict
